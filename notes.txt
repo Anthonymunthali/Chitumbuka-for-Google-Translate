@@ -1,0 +1,34 @@
+I would like to bring to your attention that my previous requests to Google Translate for the addition of the Tumbuka language were made through the feedback option on their website. Additionally, my colleague and fellow administrator on Tumbuka Wikipedia publicly made a request on the Google Translate community on March 29, 2023. You can view this request here:
+
+[Google Translate request](https://support.google.com/translate/thread/208415937/adding-new-language-tumbuka-language-iso-639-3-tum?hl=en)
+
+Here is the link to Tumbuka Wikipedia:
+
+[Tumbuka Wikipedia](https://tum.wikipedia.org/wiki/Jani_likulu)
+
+Please note that the letters 'ŵ' and 'w' in Tumbuka are pronounced differently and change the meaning of similarly looking words. Many people often make the mistake of interchanging these letters.
+
+The book "History of the Tumbuka-Henga People" has been included in this repository. This book features alternating pages in Tumbuka and its English translation. It was written by a native Tumbuka speaker and translated by a missionary.
+
+You can access a Tumbuka Lexicon here:
+
+[English-Tumbuka Lexicon](https://www.google.mw/books/edition/English_Tumbuka_Lexicon/ds-REAAAQBAJ?hl=tum&gbpv=0&safe=strict)
+
+Several Bibles have been published in the Tumbuka language, but only two are publicly available online:
+
+1. The Jehovah's Witness Bible
+2. The New Tumbuka Bible published by the Malawi Bible Society
+
+I have included the Jehovah's Witness Bible in this repository. It can also be downloaded from:
+
+[Jehovah's Witness Bible](https://www.jw.org/tum/)
+
+Also note that you can set the Entire JW website to Tumbuka, meaning all content in English is available in Tumbuka on the website.
+
+The New Tumbuka Bible, published by the Malawi Bible Society, is available online here:
+
+[New Tumbuka Bible](https://www.bible.com/versions/1961-TUMBUKA-new-tumbuka-bible)
+
+I have scraped the New Tumbuka Bible and included it in the repository. Additionally, I have provided the simple Python program I created to scrape this Bible. The scraper extracts one book of the Bible at a time from the website, starting from the first page to the last page of each book, page by page. I requires you enter the link to book and how many chapters the book has.
+
+Please note that the scraper extracts all content from the page, not just the Tumbuka text. However, I have cleaned the data to the best of my ability and will continue to do so.
